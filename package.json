@@ -1,0 +1,20 @@
+{
+  "name": "parchiarte",
+  "version": "1.0.0",
+  "description": "ParchIArte, una plataforma que centralice la oferta de entretenimiento, permitiendo reservar experiencias y  recibir recomendaciones personalizadas con IA, haciendo que planear un día de parche, salir con amigos o vivir una experiencia  cultural sea mucho más fácil, rápido y adaptado a cada persona.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skallenfreck/ParchIArte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skallenfreck/ParchIArte/issues"
+  },
+  "homepage": "https://github.com/skallenfreck/ParchIArte#readme"
+}
