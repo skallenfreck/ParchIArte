@@ -4,7 +4,8 @@
   "description": "ParchIArte, una plataforma que centralice la oferta de entretenimiento, permitiendo reservar experiencias y  recibir recomendaciones personalizadas con IA, haciendo que planear un día de parche, salir con amigos o vivir una experiencia  cultural sea mucho más fácil, rápido y adaptado a cada persona.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/skallenfreck/ParchIArte#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
